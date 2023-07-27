@@ -62,3 +62,4 @@ while (count <= N) {
     }
     count ++;
 }
+Console.Write("Enter number: ");
